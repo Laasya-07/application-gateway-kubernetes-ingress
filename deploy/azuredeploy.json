@@ -49,7 +49,7 @@
             }
         },
         "aksAgentOsDiskSizeGB": {
-            "defaultValue": 40,
+            "defaultValue": 30,
             "minValue": 30,
             "maxValue": 1023,
             "type": "int",
